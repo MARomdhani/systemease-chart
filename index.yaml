@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  genesis:
+  - apiVersion: v2
+    created: "2023-08-17T23:47:56.2075166+02:00"
+    description: A Helm chart for deploying a Next.js app
+    digest: 421749c2e5c8b7203a28f1eea4a00bd7e1a41943933c91ebf4ff220397cca0a3
+    name: genesis
+    urls:
+    - genesis-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-17T23:47:56.2031788+02:00"
