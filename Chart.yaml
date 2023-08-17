@@ -1,0 +1,4 @@
+apiVersion: v2
+name: genesis
+description: A Helm chart for deploying a Next.js app
+version: 0.1.0
